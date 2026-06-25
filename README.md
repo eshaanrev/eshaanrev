@@ -2,8 +2,6 @@
 
 I build software across mobile, web, and cybersecurity — from Android apps to full-stack web tools to embedded robotics code. I like projects where the hard part is real: on-device analysis, audio forensics, hardware constraints.
 
-**Currently working with:** Java · Android · React · TypeScript · Next.js · Firebase · Supabase
-
 ---
 
 ### Featured projects
