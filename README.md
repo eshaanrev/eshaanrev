@@ -6,8 +6,8 @@ I build software across mobile, web, and cybersecurity — from Android apps to 
 
 ### Featured projects
 
-- **[AeroTracker](https://github.com/eshaanrev/AeroTracker)** — Android app for logging model rocket launches, with GPS capture, photos, and on-device post-flight analysis. *Java, Firebase.*
-- **[VauxGuard](https://github.com/eshaanrev/VauxGuard)** — Deepfake voice detection app that extracts acoustic features and runs an LLM forensic analyzer to flag synthetic speech. *Next.js, Supabase.*
+- **[Aerolog](https://github.com/eshaanrev/Aerolog)** — Android app for logging model rocket launches, with GPS capture, photos, and on-device post-flight analysis. *Java, Firebase.*
+- **[Vauxguard](https://github.com/eshaanrev/Vauxguard)** — Deepfake voice detection app that extracts acoustic features and runs an LLM forensic analyzer to flag synthetic speech. *Next.js, Supabase.*
 - **[Vexvault](https://github.com/eshaanrev/Vexvault)** — Inventory tracker for VEX Robotics teams: parts, categories, search, and low-stock alerts. *React, TypeScript.*
 - **[Resforge](https://github.com/eshaanrev/Resforge)** — Resume builder that generates a polished, downloadable PDF with improvement tips. *Vanilla JS.*
 - **[Unoverse](https://github.com/eshaanrev/Unoverse)** — Interactive platform for learning Arduino through lessons, projects, and progress tracking. *React, Firebase.*
