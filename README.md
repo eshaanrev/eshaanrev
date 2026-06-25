@@ -1,6 +1,6 @@
 ### Hi, I'm Eshaan
 
-I build software across mobile, web, and cybersecurity. I like projects where the usage is real: on-device analysis, audio forensics, hardware constraints.
+I build stuff. I like projects that actually have a use: on-device analysis, audio forensics, hardware constraints.
 
 ---
 
