@@ -18,4 +18,4 @@ I build software across mobile, web, and cybersecurity — from Android apps to 
 
 ### Open to freelance work
 
-I take on freelance projects — web apps, mobile, and tooling. Reach me at **xsuseshaan@gmail.com**.
+I take on freelance projects — web apps, mobile, and tooling. Reach me at **eshaan0825@gmail.com**.
