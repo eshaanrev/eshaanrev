@@ -1,6 +1,6 @@
 ### Hi, I'm Eshaan
 
-I build stuff. I like projects that actually advance quality-of-life: on-device analysis, audio forensics, hardware constraints.
+I tend to make projects that advance quality-of-life.
 
 ---
 
